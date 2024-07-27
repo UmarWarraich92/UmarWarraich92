@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umar Warraich</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 📫 How to reach me **umarwarraich@gmail.com**
+- 📫 How to reach me **umarwarraich451@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
